@@ -25,7 +25,7 @@ SECRET_KEY = 'ti=h(qf8abpatglc-_3b@%s5(2&8@v-v_#vo=x-v$7(#np7j@t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.pythonanywhere.com']
+ALLOWED_HOSTS = ['.pythonanywhere.com', '.render.com']
 
 
 # Application definition
